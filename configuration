@@ -1,0 +1,4 @@
+After enter into git bash you need to config who you are using
+for that command 
+git config --global user .name
+git config --global user .email
